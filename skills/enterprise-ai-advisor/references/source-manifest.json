@@ -1,0 +1,227 @@
+{
+  "source": {
+    "original_filename": "Datawhale FDE案例100.pdf",
+    "sha256": "aafdf4b329f86e240546b326dc3559a995027f26e6179e6292f54c37a7d7345e",
+    "page_count": 246,
+    "verified_date": "2026-09-16",
+    "edition_note": "用户提供版本；目录24案，PDF246页，书内1-243对应PDF2-244。"
+  },
+  "cases": [
+    {
+      "id": 1,
+      "title": "老师傅经验采集与培训",
+      "printed_start": 6,
+      "printed_end": 13,
+      "pdf_start": 7,
+      "pdf_end": 14,
+      "mechanisms": "隐性经验／高频问答／培训使用"
+    },
+    {
+      "id": 2,
+      "title": "办件材料预检助手",
+      "printed_start": 14,
+      "printed_end": 23,
+      "pdf_start": 15,
+      "pdf_end": 24,
+      "mechanisms": "图片材料／字段抽取／跨系统流转"
+    },
+    {
+      "id": 3,
+      "title": "案件材料时间线工作台",
+      "printed_start": 24,
+      "printed_end": 32,
+      "pdf_start": 25,
+      "pdf_end": 33,
+      "mechanisms": "长文档／人物事件关系／证据追溯"
+    },
+    {
+      "id": 4,
+      "title": "地块研判资料包",
+      "printed_start": 33,
+      "printed_end": 45,
+      "pdf_start": 34,
+      "pdf_end": 46,
+      "mechanisms": "空间数据／专业规则／跨部门依赖"
+    },
+    {
+      "id": 5,
+      "title": "达人与商品匹配清单",
+      "printed_start": 46,
+      "printed_end": 54,
+      "pdf_start": 47,
+      "pdf_end": 55,
+      "mechanisms": "描述匹配／内容标签／履约协作"
+    },
+    {
+      "id": 6,
+      "title": "装车方案可视化实验",
+      "printed_start": 55,
+      "printed_end": 66,
+      "pdf_start": 56,
+      "pdf_end": 67,
+      "mechanisms": "尺寸约束／专业算法／现场可执行性"
+    },
+    {
+      "id": 7,
+      "title": "研发需求规格协作包",
+      "printed_start": 67,
+      "printed_end": 75,
+      "pdf_start": 68,
+      "pdf_end": 76,
+      "mechanisms": "协作规格／需求变更／个人与团队差异"
+    },
+    {
+      "id": 8,
+      "title": "物料查重与替代检索",
+      "printed_start": 76,
+      "printed_end": 85,
+      "pdf_start": 77,
+      "pdf_end": 86,
+      "mechanisms": "别名与单位／重复记录／采购损失"
+    },
+    {
+      "id": 9,
+      "title": "报销资料关联与预填",
+      "printed_start": 86,
+      "printed_end": 94,
+      "pdf_start": 87,
+      "pdf_end": 95,
+      "mechanisms": "票据／业务关联／科目规则与审核"
+    },
+    {
+      "id": 10,
+      "title": "门店对账差异助手",
+      "printed_start": 95,
+      "printed_end": 104,
+      "pdf_start": 96,
+      "pdf_end": 105,
+      "mechanisms": "双源核对／差异／净额与复核"
+    },
+    {
+      "id": 11,
+      "title": "外贸文件关系检索",
+      "printed_start": 105,
+      "printed_end": 117,
+      "pdf_start": 106,
+      "pdf_end": 118,
+      "mechanisms": "分散文件／版本与关系／环境权限"
+    },
+    {
+      "id": 12,
+      "title": "商品素材生产与复核台",
+      "printed_start": 118,
+      "printed_end": 127,
+      "pdf_start": 119,
+      "pdf_end": 128,
+      "mechanisms": "图像一致性／商品还原／人工复核"
+    },
+    {
+      "id": 13,
+      "title": "维保记录整理与交接",
+      "printed_start": 128,
+      "printed_end": 134,
+      "pdf_start": 129,
+      "pdf_end": 135,
+      "mechanisms": "线下记录／重复填报／监管软件依赖"
+    },
+    {
+      "id": 14,
+      "title": "业务部门小流程共建包",
+      "printed_start": 135,
+      "printed_end": 144,
+      "pdf_start": 136,
+      "pdf_end": 145,
+      "mechanisms": "有系统没人用／激励与职责／小流程"
+    },
+    {
+      "id": 15,
+      "title": "餐饮短视频脚本批量工作流",
+      "printed_start": 145,
+      "printed_end": 156,
+      "pdf_start": 146,
+      "pdf_end": 157,
+      "mechanisms": "参数化内容／业务事实／跨商户稳定性"
+    },
+    {
+      "id": 16,
+      "title": "可追溯的数据问答助手",
+      "printed_start": 157,
+      "printed_end": 164,
+      "pdf_start": 158,
+      "pdf_end": 165,
+      "mechanisms": "查询与分析／稳定性／成本及来源"
+    },
+    {
+      "id": 17,
+      "title": "非标产品询价拆解助手",
+      "printed_start": 165,
+      "printed_end": 176,
+      "pdf_start": 166,
+      "pdf_end": 177,
+      "mechanisms": "图纸字段／工艺规则／不确定字段校准"
+    },
+    {
+      "id": 18,
+      "title": "销售知识陪练与反馈",
+      "printed_start": 177,
+      "printed_end": 184,
+      "pdf_start": 178,
+      "pdf_end": 185,
+      "mechanisms": "数据基础／确定性计量／知识陪练"
+    },
+    {
+      "id": 19,
+      "title": "包装文字与版本预检",
+      "printed_start": 185,
+      "printed_end": 195,
+      "pdf_start": 186,
+      "pdf_end": 196,
+      "mechanisms": "长链交接／包装文字／前置审核"
+    },
+    {
+      "id": 20,
+      "title": "订单到应付款追溯卡",
+      "printed_start": 196,
+      "printed_end": 205,
+      "pdf_start": 197,
+      "pdf_end": 206,
+      "mechanisms": "数据关联／异常／经营可追溯"
+    },
+    {
+      "id": 21,
+      "title": "建筑图纸空间识别练习",
+      "printed_start": 206,
+      "printed_end": 214,
+      "pdf_start": 207,
+      "pdf_end": 215,
+      "mechanisms": "CAD空间解析／规则引擎／专业控制"
+    },
+    {
+      "id": 22,
+      "title": "库存补货建议单",
+      "printed_start": 215,
+      "printed_end": 224,
+      "pdf_start": 216,
+      "pdf_end": 225,
+      "mechanisms": "同步依赖／图片回填／规则补货"
+    },
+    {
+      "id": 23,
+      "title": "工程租赁询价预处理",
+      "printed_start": 225,
+      "printed_end": 232,
+      "pdf_start": 226,
+      "pdf_end": 233,
+      "mechanisms": "询价参数／分层／转人工"
+    },
+    {
+      "id": 24,
+      "title": "海外动销数据整理助手",
+      "printed_start": 233,
+      "printed_end": 243,
+      "pdf_start": 234,
+      "pdf_end": 244,
+      "mechanisms": "多源口径／动销与发货／异常及来源"
+    }
+  ]
+}

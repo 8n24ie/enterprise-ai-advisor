@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业 AI 落地顾问"
+  short_description: "澄清业务烦恼、判断解决路径，形成范围清楚且可验收的小项目方案"
+  default_prompt: "请使用 $enterprise-ai-advisor，帮我把工作中的烦恼梳理成值得验证的小项目；先判断信息是否充分，再决定需要追问还是直接给方案。"
